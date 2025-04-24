@@ -11,6 +11,7 @@ dependencies = [
     "ipywidgets>=8.1.5",
     "lighteval>=0.5.0",
     "numpy==1.*",
+    "openpyxl>=3.1.5",
     "peft>=0.13.0",
     "scikit-learn>=1.5.2",
     "setuptools>=75.1.0",
