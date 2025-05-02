@@ -12,4 +12,6 @@ This repository contains the accompanying exercises to the short course.
 
 The notebook can either be run directly in Google Colab or Kaggle, or locally using the [uv](https://github.com/astral-sh/uv) package manager.
 
+We recommend using Google Colab (click `Open In Colab`) for people not too familiar with the other options.
+
 *This work has received funding through the DFG (No. 504226141).*
